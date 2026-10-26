@@ -1,6 +1,6 @@
 # hello-gui
 
-��чебный проект с CI/CD на GitHub Actions для **Go GUI (Fyne)** с публикацией бинарников в **GitHub Releases**.
+Учебный проект с CI/CD на GitHub Actions для **Go GUI (Fyne)** с публикацией бинарников в **GitHub Releases**.
 
 ## 📌 Цель работы
  
